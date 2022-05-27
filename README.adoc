@@ -1,2 +1,2 @@
 === Freezer app
-A music player, built with Kotlin and Jetpack Compose using the Deeper API
+A music player, built with Kotlin and Jetpack Compose using the Deezer API
