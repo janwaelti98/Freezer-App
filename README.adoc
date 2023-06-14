@@ -1,2 +1,9 @@
-=== Freezer app
-A music player, built with Kotlin and Jetpack Compose using the Deezer API
+== Freezer app
+This project is a music player built with Kotlin and Jetpack Compose, utilizing the Deezer API. The music player allows users to search for and play their favorite songs and albums.
+
+=== Features
+- Search for songs & albums
+- Discover radio stations
+- Add songs as favorites
+- Play / Pause Song
+- Play next / previous song
